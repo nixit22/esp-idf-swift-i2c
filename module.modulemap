@@ -1,0 +1,4 @@
+module ESP_I2C [system] {
+    umbrella header "i2c.h"
+    export *
+}

@@ -1,0 +1,7 @@
+name: SwiftI2C
+version: 0.1.0
+description: Swift bindings for I2C communication on ESP32 devices within the ESP-IDF framework.
+
+dependencies:
+  SwiftPlatform:
+    git: git@github.com:nixit22/esp-idf-swift-platform.git
